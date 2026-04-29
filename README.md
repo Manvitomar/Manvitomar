@@ -57,5 +57,5 @@ I'm always open to collaborating on interesting backend projects or discussing t
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
 </p>
