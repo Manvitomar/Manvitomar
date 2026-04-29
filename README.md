@@ -1,44 +1,47 @@
-# Hi there, I'm Manvi! 👋 
+# Hi there, I'm Manvi! 👋
 
-### 🚀 Developer | Logic Weaver | Thriller Enthusiast
-
-I am a backend-focused developer who bridges the gap between complex logic and clean, maintainable code. Currently, I'm specializing in **Java** and **Django** to build scalable solutions that tackle real-world challenges.
-
----
-
-### 🛠️ What I'm Working On
-- **🏗️ Current Project:** Refining a high-accuracy **Multi-Disease Predictor** using machine learning and Python.
-- **⚙️ System Design:** Architecting robust APIs and efficient data processing pipelines.
-- **📚 Growth:** Exploring deep-level system design and finishing my latest tech biography.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+Developer;Logic+Weaver;Thriller+Enthusiast;Java+%26+Django+Dev" alt="Typing SVG" />
+</p>
 
 ---
 
-### 💻 My Tech Stack
+### 🚀 About Me
 
-**Languages & Frameworks**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+I am a backend-focused developer who bridges the gap between complex logic and clean, maintainable code. I enjoy building scalable solutions and architecting robust APIs that solve real-world problems.
 
-**Tools & Frontend**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+- 🔭 **Current Project:** Refining a high-accuracy **Multi-Disease Predictor** using Machine Learning.
+- ⚙️ **System Design:** Currently deep-diving into efficient data processing pipelines.
+- 📚 **Growth:** Reading tech biographies and exploring advanced system architecture.
+- 💬 **Ask me about:** Java, Django, or why a good thriller novel is like a perfect piece of code.
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### 🛠️ Tech Stack
 
-| **Stats Overview** | **Top Languages** |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| <img src="https://github-readme-stats.vercel.app/api?username=Manvitomar&show_icons=true&theme=radical" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvitomar&layout=compact&theme=radical" width="300" /> |
+| **Languages** | Java, Python, JavaScript |
+| **Frameworks** | Django, Spring Boot |
+| **Backend** | SQL, System Design, REST APIs |
+| **Frontend/Tools** | HTML5, CSS3, Git, GitHub |
+
+---
+
+### 📊 GitHub Metrics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=manvitomar046&show_icons=true&theme=tokyonight&hide_border=true" alt="Manvi's Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvitomar046&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
 ### 🐍 The Contribution Snake
-![Snake Animation](https://github-contribution-grid-snake.vercel.app/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/manvitomar046/manvitomar046/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 ---
 
@@ -46,9 +49,13 @@ I am a backend-focused developer who bridges the gap between complex logic and c
 
 I'm always open to collaborating on interesting backend projects or discussing the latest in tech.
 
-- **LinkedIn:** [in/manvitomar046](https://linkedin.com/in/manvitomar046)
-- **Portfolio:** *Coming Soon*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manvitomar046)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-grey?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+> "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
