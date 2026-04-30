@@ -68,14 +68,22 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Manvitomar&show_icons=true&theme=radical)
+<!-- MAIN STATS -->
+<img src="https://github-readme-stats.vercel.app/api?username=Manvitomar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manvitomar&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manvitomar&layout=compact&theme=radical)
+<!-- STREAK -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manvitomar&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<!-- LANGUAGES -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvitomar&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+</div>
 ---
 # 🌐 Connect With Me
 
