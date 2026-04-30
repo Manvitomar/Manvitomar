@@ -68,9 +68,19 @@ MySQL • SQLite
 
 # 🌐 Connect With Me
 
-- 💼 GitHub: https://github.com/Manvitomar  
-- 🔗 LinkedIn: (add your link here)  
-- 📧 Email: (add your email here)  
+<p align="center">
+  <a href="https://github.com/Manvitomar">
+    <img src="https://img.shields.io/badge/GitHub-Manvi%20Tomar-black?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p> 
 
 ---
 
