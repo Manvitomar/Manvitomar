@@ -1,64 +1,84 @@
 <div align="center">
 
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=36BCF7&height=200&section=header&text=Manvi%20Tomar&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20|%20Java%20%7C%20Python%20|%20Django%20Learner&descAlignY=60&descSize=20" width="100%"/>
+
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;Django+Learner;Python+Enthusiast;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;Django+Developer;Problem+Solver;Building+Real+World+Projects" />
 
 </div>
+
+---
+
+# 👩‍💻 About Me
+
+- 🎓 Computer Science Engineering Student  
+- 💻 Backend Developer (Python & Java)  
+- 🌱 Currently learning Django & System Design  
+- 🚀 Passionate about building real-world projects  
+- 📌 Interested in backend architecture & APIs  
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+Python • Java • C++ • SQL  
+
+### ⚙️ Backend
+Django • Flask (basic)  
+
+### 🌐 Frontend
+HTML • CSS • Bootstrap  
+
+### 🛢️ Database
+MySQL • SQLite  
+
+---
+
+# 🚀 Projects
+
+### 💼 Personal Portfolio (Django)
+- Dynamic portfolio website  
+- Admin-controlled projects & blogs  
+- Contact form with database  
+
+---
+
+### 📊 Multi-Disease Prediction System
+- Machine learning-based prediction system  
+- Diabetes, Heart, Kidney disease models  
+- Risk analysis with confidence score  
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
-  <h1>Hi, I'm Manvi Tomar 👋</h1>
-  <p align="center">
-    <strong>Backend Developer | Java & Django Enthusiast | ML Explorer</strong>
-  </p>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/manvitomar046"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Manvitomar&show_icons=true&theme=radical)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manvitomar&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manvitomar&layout=compact&theme=radical)
+
 </div>
 
 ---
 
-### 🚀 The Mission
-I bridge the gap between complex logic and clean, maintainable code. I specialize in building scalable backend systems and architecting robust APIs that solve real-world problems.
+# 🌐 Connect With Me
 
-- 🔭 **Current Focus:** Refining a high-accuracy **Multi-Disease Predictor** using Machine Learning.
-- ⚙️ **System Design:** Architecting efficient data pipelines and RESTful services.
-- 📚 **Learning:** Currently diving deeper into Advanced System Design and Cloud Infrastructure.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Frameworks** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+- 💼 GitHub: https://github.com/Manvitomar  
+- 🔗 LinkedIn: (add your link here)  
+- 📧 Email: (add your email here)  
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manvitomar&show_icons=true&theme=radical&hide_border=true" alt="Manvi's Stats" />
-</p>
+# 💡 Fun Fact
+I love building backend systems that solve real-world problems 🚀
 
 ---
 
-### 🐍 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manvitomar&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### ⚡ Random Byte
-> "Code is like humor. When you have to explain it, it’s bad." – *Cory House*
-
-When I'm not in my IDE, you’ll find me halfway through a thriller novel or exploring a new tech biography.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
-</p>
+<div align="center">
+⭐ Thanks for visiting my profile ⭐
+</div>
