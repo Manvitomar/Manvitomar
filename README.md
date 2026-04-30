@@ -12,11 +12,14 @@
 
 # 👩‍💻 About Me
 
-- 🎓 Computer Science Engineering Student  
-- 💻 Backend Developer (Python & Java)  
-- 🌱 Currently learning Django & System Design  
-- 🚀 Passionate about building real-world projects  
-- 📌 Interested in backend architecture & APIs  
+<p align="left">
+
+🎓 Computer Science Engineering Student  
+💻 Backend Developer specializing in Python & Java  
+🌱 Currently learning Django, System Design & Scalable Architectures  
+🚀 Passionate about building real-world, impactful applications  
+📌 Interested in Backend Development, APIs & System Design  
+</p>
 
 ---
 
