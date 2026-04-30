@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=36BCF7&height=200&section=header&text=Manvi%20Tomar&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20|%20Java%20%7C%20Python%20|%20Django%20Learner&descAlignY=60&descSize=20" width="100%"/>
+<!-- NAME HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E90FF&height=180&section=header&text=Manvi%20Tomar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20|%20Java%20%7C%20Python%20%7C%20Django&descSize=18&descAlignY=55" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;Django+Developer;Problem+Solver;Building+Real+World+Projects" />
+<!-- SHORT TAGLINE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Engineer;Django+Developer;Problem+Solver;System+Builder" />
 
 </div>
 
