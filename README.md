@@ -100,12 +100,18 @@
 </div>
 
 ---
-
 # 💡 Fun Fact
-I love building backend systems that solve real-world problems 🚀
+
+I am passionate about backend engineering and enjoy creating systems that are reliable, scalable, and production-ready.
+
+--- 
+
+<div align="center">
 
 ---
 
-<div align="center">
-⭐ Thanks for visiting my profile ⭐
+### ⭐ Thanks for visiting my profile!
+
+Keep building. Keep learning. Keep growing 🚀
+
 </div>
