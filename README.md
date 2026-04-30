@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=36BCF7&height=200&section=header&text=Manvi%20Tomar&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Backend%20Developer%20%7C%20Java%20%26%20Python%20Enthusiast&descAlignY=60&descSize=20" width="100%"/>
-
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer;Django+Learner;Python+Enthusiast;Building+Real+World+Projects" />
 
