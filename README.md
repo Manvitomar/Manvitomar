@@ -65,22 +65,17 @@ MySQL • SQLite
 </div>
 
 ---
-
 # 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/Manvitomar">
-    <img src="https://img.shields.io/badge/GitHub-Manvi%20Tomar-black?style=for-the-badge&logo=github"/>
-  </a>
+<div align="center">
 
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
+[![GitHub](https://img.shields.io/badge/GitHub-Manvi%20Tomar-181717?style=for-the-badge&logo=github)](https://github.com/Manvitomar)
 
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+
+[![Email](https://img.shields.io/badge/Email-Send%20Mail-red?style=for-the-badge&logo=gmail)](mailto:youremail@gmail.com)
+
+</div>
 
 ---
 
