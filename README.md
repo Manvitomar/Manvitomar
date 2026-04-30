@@ -108,8 +108,6 @@ I am passionate about backend engineering and enjoy creating systems that are re
 
 <div align="center">
 
----
-
 ### ⭐ Thanks for visiting my profile!
 
 Keep building. Keep learning. Keep growing 🚀
