@@ -41,8 +41,8 @@
 
 ### 🛢️ Database
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-
 </p>
+
 ---
 
 # 🚀 Projects
