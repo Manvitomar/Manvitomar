@@ -65,15 +65,27 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- PROFILE VIEWS -->
+
+<img src="https://komarev.com/ghpvc/?username=Manvitomar&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
 <!-- MAIN STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=Manvitomar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Manvitomar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="180"/>
 
 <!-- STREAK -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manvitomar&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+<img src="https://streak-stats.demolab.com?user=Manvitomar&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
 
 </div>
 
@@ -82,8 +94,21 @@
 <div align="center">
 
 <!-- LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvitomar&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manvitomar&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
+
 </div>
+
+<br/>
+
+<div align="center">
+
+<!-- TROPHIES -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=Manvitomar&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+
+</div>
+
 
 ---
 
