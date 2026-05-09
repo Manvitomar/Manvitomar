@@ -70,25 +70,13 @@
 
 <div align="center">
 
-<!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=ManviTomar&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://github-readme-stats.vercel.app/api?username=manvitomar&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
 
-<br/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manvitomar&theme=tokyonight&hide_border=true" height="180em" />
 
-<!-- MAIN STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=ManviTomar&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="180"/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=ManviTomar&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
-
-<br/><br/>
-
-<!-- TOP LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManviTomar&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
-
-<br/><br/>
-
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=ManviTomar&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvitomar&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 
 </div>
 
