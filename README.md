@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Manvitomar" target="_blank"><img src="https://img.shields.io/badge/GitHub-Manvitomar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/manvitomar046" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Manvi%20Tomar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Manvitomar"><img src="https://img.shields.io/badge/GitHub-Manvitomar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/manvitomar046"><img src="https://img.shields.io/badge/LinkedIn-Manvi%20Tomar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark Achievement" />
 </p>
 
 ***
@@ -14,10 +15,14 @@
 Backend developer with a strong interest in building clean, scalable, and practical applications.
 
 - 🔹 Focused on backend development with **FastAPI**
-- 🔹 Strong problem-solving foundation in **Data Structures and Algorithms**
+- 🔹 Strong foundation in **Data Structures and Algorithms**
 - 🔹 Solved **300+ DSA problems**
 - 🔹 Comfortable with **C++**, **Python**, and web development fundamentals
 - 🔹 Interested in writing maintainable code and improving backend design skills
+
+## 🏆 Achievements
+- 🦈 Earned the **Pull Shark** achievement on GitHub.
+- 💼 Consistently working on projects and improving development skills through practical work.
 
 ## 🛠 Tech Stack
 <p>
@@ -30,6 +35,16 @@ Backend developer with a strong interest in building clean, scalable, and practi
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+## 📊 GitHub Overview
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Manvitomar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manvitomar&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvitomar&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 ## 📌 Featured Projects
@@ -57,14 +72,6 @@ A front-end practice project focused on layout and styling using CSS.
 ## 🤝 Connect With Me
 - 🌐 GitHub: [Manvitomar](https://github.com/Manvitomar)
 - 💼 LinkedIn: [manvitomar046](https://www.linkedin.com/in/manvitomar046)
-
-## 💫 Profile Summary
-```text
-Backend Developer
-FastAPI Enthusiast
-DSA Problem Solver
-C++ Programmer
-```
 
 ***
 
