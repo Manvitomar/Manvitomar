@@ -39,9 +39,6 @@ Backend developer with a strong interest in building clean, scalable, and practi
 
 ## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manvitomar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvitomar&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
