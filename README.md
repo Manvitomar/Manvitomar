@@ -38,15 +38,16 @@ Backend developer with a strong interest in building clean, scalable, and practi
 </p>
 
 ## 📊 GitHub Overview
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manvitomar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manvitomar&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manvitomar&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
 </p>
 
+> Note: GitHub contribution stats can take time to refresh and may not always show every contribution immediately.
 ## 📌 Featured Projects
 ### 🧠 MultiDiseasePredictor
 A Python-based project centered on disease prediction workflows and applied problem solving.
